@@ -20,3 +20,7 @@ Execultar na ordem procedural, uma etapa de cada vez.
 8. **INSERIR NA TABELA USUARIO O PRIMEIRO USUARIO COMO SENDO ANONIMO**
 
 9. **INSERIR NA TABELA TAREFA, RESPEITANTO A ESTRUTURA DO SELECT**
+
+## MODELO RELACIONAL
+
+![Modelo](./img/BD.png)

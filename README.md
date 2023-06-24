@@ -1,7 +1,7 @@
 # sql-Oracle
 
 Tabela sql da [oracle](https://apex.oracle.com/pt-br/) para guardar dados de um sistema de [todoList](https://github.com/Pedrobolfute/PomOnFoot).
-Mas antes, se atente às observações. Principalmente a 8.
+Mas antes, se atente às observações. Principalmente a 10.
 
 ## OBSERVAÇÕES
 
